@@ -27,7 +27,7 @@ or [React Tabs](https://github.com/mate-academy/react_tabs#react-tabs).
 1. Redirect from `/home` to `/` using the [Navigate](https://reactrouter.com/en/main/components/navigate) component;
 1. Show the `Page not found` title for all the other URLs;
 
-## Instructions
+# Instructions
 
 - Install Prettier Extention and use this [VSCode settings](https://mate-academy.github.io/fe-program/tools/vscode/settings.json) to enable format on save.
 - Implement a solution following the [React task guideline](https://github.com/mate-academy/react_task-guideline#react-tasks-guideline).
